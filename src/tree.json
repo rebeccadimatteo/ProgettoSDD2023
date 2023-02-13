@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Salice Piangente",
+    "picture": "images/piangente.png",
+    "descrizione": "Il Salice piangente è un albero caduceo e la sua altezza può raggiungere anche i 9 – 10 metri, in casi eccezionali anche i 25 mt. Il suo fusto è molto grosso ma breve. Esso accoglie una chioma molto larga e di forma ovale al di sotto della quale sono presenti ramificazioni pendule. Queste ultime, molto spesso, tendono a raggiungere anche il terreno.",
+    "specie": "Salicaceae",
+    "paese": "Italia"
+  },
+  {
+    "id": 1,
+    "name": "Nespolo",
+    "picture": "images/nespolo.png",
+    "descrizione": "Tale albero è, in genere, di grosse dimensioni e dal portamento molto irregolare. Esso, infatti, può raggiungere anche i 5 metri in totale. Le ramificazioni, specie se giovani, posseggono estremità spinose e si appoggiano su una corteccia dal colore marrone scuro prima, tendente al grigio nel corso degli anni. Le foglie sono caduche, esse sono assenti in inverno. Le infiorescenze si presentano di piccole dimensioni, di forma a stella e di colore bianco paglierino. ",
+    "specie": "Rosaceae",
+    "paese": "Italia"
+  },
+  {
+    "id": 2,
+    "name": "Tiglio selvatico",
+    "picture": "images/selvatico.png",
+    "descrizione": "Il Tiglio Selvatico raggiunge dimensioni di 30 metri, in altezza, con un tronco di circa 1,5 metri di diametro.Il sistema radicale è molto robusto, con radici di grosse dimensioni sia nel terreno che all’esterno.  Nel complesso, esso è una pianta molto longeva, caratteristica anche per la presenza di innumerevoli polloni situati alla base. ",
+    "specie": "Tiliacea",
+    "paese": "Nord Europa"
+  },
+  {
+    "id": 3,
+    "name": "Cerro",
+    "picture": "images/cerro.png",
+    "descrizione": " Cerro può raggiungere altezze fino ai 35 metri e possiede una folta chioma di forma ovale, a tratti allungata, nel complesso compatta. Il tronco appare eretto e composto da una corteccia piuttosto dura, di consistenza spugnosa e dal color grigio cenere; se la pianta è adulta,  la corteccia presenta, inoltre, numerose fessure.",
+    "specie": "Fagaceae",
+    "paese": "Asia"
+  },
+  {
+    "id": 4,
+    "name": "Cipresso",
+    "picture": "images/cipresso.png",
+    "descrizione": "Il Cipresso, qualità specifica di conifera, è un albero che può raggiungere un’altezza di circa 50 metri. Esso si suddivide in due varietà: la varietà horizzontalis, con rami posizionati in posizione perpendicolare al tronco;la varietà pyramidalis possiede, invece, rami più vicini al tronco, di piccole e grandi dimensioni. Le sue ramificazioni sono tutte, in genere, molto lunghe e si sviluppano principalmente in altezza. ",
+    "specie": "Cupressaceae",
+    "paese": "Iran"
+  },
+  {
+    "id": 5,
+    "name": "Bahuinia",
+    "picture": "images/ba.png",
+    "descrizione": "La Bauhinia è una pianta particolarmente decorativa facente parte della famiglia delle Fabaceae. Appartengono allo stesso genere circa 200 specie, differenti tra loro per alcune caratteristiche del fogliame o per il colore dei fiori. Tra queste ricordiamo la Bauhinia purpurea e la Bauhinia grandiflora.",
+    "specie": "Fabaceae",
+    "paese": "Hong Kong"
+  },
+  {
+    "id": 6,
+    "name": "Castagno",
+    "picture": "images/cast.png",
+    "descrizione": "Il Castagno è un albero assai longevo, appartenente alla famiglia delle Fagacee. Esso è particolarmente conosciuto per i suoi frutti; in natura riesce a raggiungere un’altezza di circa 30 m. La pianta possiede una chioma tondeggiante, un fusto colonnare e una corteccia liscia e lucida, di colore bruno tendente al grigio. Le foglie hanno forma lanceolata, con margini seghettati e l’apice acuminato; sono alterne e dotate di un piccolo picciolo, lunghe fino a 22 cm e larghe 10 cm e di consistenza coriacea.",
+    "specie": "Fagacee",
+    "paese": "Asia Minore"
+  },
+  {
+    "id": 7,
+    "name": "Ginkgo biloba",
+    "picture": "images/king.png",
+    "descrizione": "Il Ginkgo biloba, comunemente chiamato albero dei ventagli, appartiene al gruppo delle Conifere e alla famiglia delle Ginkgoaceae; utilizzato come albero ornamentale per il suo notevole valore decorativo: in autunno, il colore del fogliame gli conferisce un indubbio fascino. L’esemplare di Ginkgo biloba è in grado di raggiungere i 30 m di altezza e gli 8 m di circonferenza; possiede una chioma avente forma piramidale in origine, per poi assumerne una ovale e appena più fitta.",
+    "specie": "Ginkgoaceae",
+    "paese": "Cina"
+  },
+  {
+    "id": 8,
+    "name": "Olivo",
+    "picture": "images/olivo.png",
+    "descrizione": "L’Olivo, appartenente alla famiglia delle Oleaceae, è un albero sempreverde noto per la sua longevità ed il suo ruolo nell’agricoltura mediterranea. Nei suoi primi anni di vita, il tronco è liscio, di colore grigio tendente al verde, successivamente inizia a divenire nodoso, intrecciato, di tonalità scura, anche molto profumato a differenza dei fiori che non emano alcun odore e sono di un semplice colore bianco. ",
+    "specie": "Oleaceae",
+    "paese": "Asia Minore"
+  },
+  {
+    "id": 9,
+    "name": "Baobab",
+    "picture": "images/bao.png",
+    "descrizione": "Il Baobab, appartenente alla famiglia  Bombacaceae, è un albero conosciuto per le sue grandi dimensioni e la sua incredibile longevità. Esso è in grado di arrivare ai 20 m di altezza, e possiede un tronco particolarmente largo che raggiunge anche i 15 m di diametro, avente una consistenza spugnosa all’interno e più fibrosa all’esterno. La corteccia del Baobab è marrone o anche di un bel grigio chiaro, liscia; i rami vicino al tronco sono più spessi, e tendono ad assottigliarsi verso l’estremità.",
+    "specie": "Bombacaceae",
+    "paese": "Africa"
+  },
+  {
+    "id": 10,
+    "name": "Salice Piangente",
+    "picture": "images/piangente.png",
+    "descrizione": "Il Salice piangente è un albero caduceo e la sua altezza può raggiungere anche i 9 – 10 metri, in casi eccezionali anche i 25 mt. Il suo fusto è molto grosso ma breve. Esso accoglie una chioma molto larga e di forma ovale al di sotto della quale sono presenti ramificazioni pendule. Queste ultime, molto spesso, tendono a raggiungere anche il terreno.",
+    "specie": "Salicaceae",
+    "paese": "Italia"
+  },
+  {
+    "id": 11,
+    "name": "Nespolo",
+    "picture": "images/nespolo.png",
+    "descrizione": "Tale albero è, in genere, di grosse dimensioni e dal portamento molto irregolare. Esso, infatti, può raggiungere anche i 5 metri in totale. Le ramificazioni, specie se giovani, posseggono estremità spinose e si appoggiano su una corteccia dal colore marrone scuro prima, tendente al grigio nel corso degli anni. Le foglie sono caduche, esse sono assenti in inverno. Le infiorescenze si presentano di piccole dimensioni, di forma a stella e di colore bianco paglierino. ",
+    "specie": "Rosaceae",
+    "paese": "Italia"
+  },
+  {
+    "id": 12,
+    "name": "Cerro",
+    "picture": "images/cerro.png",
+    "descrizione": " Cerro può raggiungere altezze fino ai 35 metri e possiede una folta chioma di forma ovale, a tratti allungata, nel complesso compatta. Il tronco appare eretto e composto da una corteccia piuttosto dura, di consistenza spugnosa e dal color grigio cenere; se la pianta è adulta,  la corteccia presenta, inoltre, numerose fessure.",
+    "specie": "Fagaceae",
+    "paese": "Asia"
+  },
+  {
+    "id": 13,
+    "name": "Castagno",
+    "picture": "images/cast.png",
+    "descrizione": "Il Castagno è un albero assai longevo, appartenente alla famiglia delle Fagacee. Esso è particolarmente conosciuto per i suoi frutti; in natura riesce a raggiungere un’altezza di circa 30 m. La pianta possiede una chioma tondeggiante, un fusto colonnare e una corteccia liscia e lucida, di colore bruno tendente al grigio. Le foglie hanno forma lanceolata, con margini seghettati e l’apice acuminato; sono alterne e dotate di un piccolo picciolo, lunghe fino a 22 cm e larghe 10 cm e di consistenza coriacea.",
+    "specie": "Fagacee",
+    "paese": "Asia Minore"
+  },
+  {
+    "id": 14,
+    "name": "Bahuinia",
+    "picture": "images/ba.png",
+    "descrizione": "La Bauhinia è una pianta particolarmente decorativa facente parte della famiglia delle Fabaceae. Appartengono allo stesso genere circa 200 specie, differenti tra loro per alcune caratteristiche del fogliame o per il colore dei fiori. Tra queste ricordiamo la Bauhinia purpurea e la Bauhinia grandiflora.",
+    "specie": "Fabaceae",
+    "paese": "Hong Kong"
+  },
+  {
+    "id": 15,
+    "name": "Bahuinia",
+    "picture": "images/ba.png",
+    "descrizione": "La Bauhinia è una pianta particolarmente decorativa facente parte della famiglia delle Fabaceae. Appartengono allo stesso genere circa 200 specie, differenti tra loro per alcune caratteristiche del fogliame o per il colore dei fiori. Tra queste ricordiamo la Bauhinia purpurea e la Bauhinia grandiflora.",
+    "specie": "Fabaceae",
+    "paese": "Hong Kong"
+  }
+]

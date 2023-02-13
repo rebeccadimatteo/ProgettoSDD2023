@@ -1,6 +1,7 @@
 {
-  "name": "pet-shop",
+  "name": "tree-shop",
   "version": "1.0.0",
+  "description": "",
   "description": "",
   "main": "truffle.js",
   "directories": {
